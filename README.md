@@ -5,9 +5,9 @@ DRAW CONCLUSIONS FROM THE DATA.
 
 
 <h2> steps for the project </h2>
-<l1> data explore </l1> /n
-<l2> data cleaning </l2> /n
-<l2> descriptive statistics </l2>/n
+<l1> data explore </l1> /
+<l2> data cleaning </l2> /
+<l2> descriptive statistics </l2>/
 <l1> data visualization </l1>
 
 <h2> input files </h2>
