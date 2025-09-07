@@ -18,7 +18,9 @@ data visualization
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 ## 📂 Dataset Preview
-![Dataset Preview](images/csv_preview.png)
+Dataset Preview
+<img width="1298" height="274" alt="image" src="https://github.com/user-attachments/assets/d51e9cc1-1854-4889-9108-a98a0ca4b559" />
+
 
 
 
