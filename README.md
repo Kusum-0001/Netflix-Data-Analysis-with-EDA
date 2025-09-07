@@ -30,6 +30,9 @@ Country-wise distribution: US dominates, India emerging.
 
 top 15 genre(https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/TOP%2015%20Genre.png)
 
+<img width="1266" height="638" alt="image" src="https://github.com/user-attachments/assets/92ab8e15-7e12-48c7-8f5b-ab94063efcaa" />
+
+
 trends in Genre popularity over time (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Trends%20over%20time.png)
 
 language estimation (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Language%20estimation.png)
