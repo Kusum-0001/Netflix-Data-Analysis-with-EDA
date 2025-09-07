@@ -35,6 +35,9 @@ top 15 genre(https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/m
 
 trends in Genre popularity over time (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Trends%20over%20time.png)
 
+<img width="1546" height="574" alt="image" src="https://github.com/user-attachments/assets/38b3e7af-35a5-4795-9af2-6dda21ce5ec8" />
+
+
 language estimation (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Language%20estimation.png)
 
 
