@@ -40,6 +40,9 @@ trends in Genre popularity over time (https://github.com/Kusum-0001/Netflix-Data
 
 language estimation (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Language%20estimation.png)
 
+<img width="1551" height="586" alt="image" src="https://github.com/user-attachments/assets/17db3bbc-4f8d-4bf7-8439-e52576f3e80f" />
+
+
 
 
 
