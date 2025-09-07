@@ -18,7 +18,9 @@ data visualization
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 <h2> input files </h2>
-netflix tiles(https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/netflix_titles.csv) 
+
+
+
 
 📊 Key Insights
 
