@@ -17,9 +17,9 @@ data visualization
 
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
-<h2> input files </h2>
+## 📂 Dataset Preview
+![Dataset Preview](images/csv_preview.png)
 
-[download file](data/netflix_titles.csv)
 
 
 
