@@ -1,17 +1,23 @@
 # Netflix Data Anaysis-with-EDA
-THE NETFLIX EDA PROJECT REVOLVES AROUND EXPLORING AND ANALYZING A DATASET RELATED TO NETFLIX CONTENT. THE DATASET LIKELY INCLUDES INFORMATION ABOUT MOVIES AND TV SHOWS
-AVAILABLE ON THE PLATFORM. THE PURPOSE OF THE PROJECT IS TO PERFORM EXPLORATORY DATA ANALYSIS TO EXTRACT MEANINGFUL INSIGHTS AND
-DRAW CONCLUSIONS FROM THE DATA.
+<h2>🔍 Overview </h2>
+Performed exploratory data analysis (EDA) on Netflix dataset to study content distribution, genres, and country-wise patterns.
 
 
 <h2> steps for the project </h2>
-<l1> data explore </l1> /
-<l2> data cleaning </l2> /
-<l2> descriptive statistics </l2>/
-<l1> data visualization </l1>
+
+data explore
+
+data cleaning 
+
+descriptive statistics
+ 
+data visualization
+
+<h2>🛠️ Tech Stack </h2>
+
+Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 <h2> input files </h2>
-netflix tiles
+netflix tiles() 
 
-<h2> tools and libraries </h2>
-<l1> pandas , numpy , matplotlib , seaborn </l1>
+
