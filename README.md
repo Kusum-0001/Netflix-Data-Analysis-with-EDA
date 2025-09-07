@@ -19,6 +19,7 @@ Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 <h2> input files </h2>
 
+[download file](data/netflix_titles.csv)
 
 
 
