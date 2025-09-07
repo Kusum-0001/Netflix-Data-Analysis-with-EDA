@@ -18,6 +18,18 @@ data visualization
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 <h2> input files </h2>
-netflix tiles() 
+netflix tiles(https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/netflix_titles.csv) 
+
+📊 Key Insights
+
+Top genres: Drama, Comedy.
+
+Content growth: Rapid increase after 2015.
+
+Country-wise distribution: US dominates, India emerging.
+
+top 15 genre()
+
+trends in Genre popularity over time ()
 
 
