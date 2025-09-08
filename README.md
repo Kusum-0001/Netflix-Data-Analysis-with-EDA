@@ -1,7 +1,7 @@
 # Netflix Data Anaysis-with-EDA
 <h2>🔍 Overview </h2>
-Performed exploratory data analysis (EDA) on Netflix dataset to study content distribution, genres, and country-wise patterns.
 
+Performed exploratory data analysis (EDA) on Netflix dataset to study content distribution, genres, and country-wise patterns.
 
 <h2> steps for the project </h2>
 
@@ -33,17 +33,22 @@ Content growth: Rapid increase after 2015.
 
 Country-wise distribution: US dominates, India emerging.
 
-top 15 genre
+
+<h3>top 15 genre </h3>
 
 <img width="1266" height="638" alt="image" src="https://github.com/user-attachments/assets/92ab8e15-7e12-48c7-8f5b-ab94063efcaa" />
 
+<h3>content distribution by country</h3>
 
-trends in Genre popularity over time 
+<img width="1532" height="577" alt="image" src="https://github.com/user-attachments/assets/46839cb5-38f5-480b-b825-da5e746da141" />
+
+
+<h3>trends in Genre popularity over time </h3>
 
 <img width="1546" height="574" alt="image" src="https://github.com/user-attachments/assets/38b3e7af-35a5-4795-9af2-6dda21ce5ec8" />
 
 
-language estimation 
+<h3>language estimation </h3>
 
 <img width="1551" height="586" alt="image" src="https://github.com/user-attachments/assets/17db3bbc-4f8d-4bf7-8439-e52576f3e80f" />
 
