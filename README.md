@@ -33,19 +33,31 @@ Content growth: Rapid increase after 2015.
 
 Country-wise distribution: US dominates, India emerging.
 
-top 15 genre(https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/TOP%2015%20Genre.png)
+top 15 genre
 
 <img width="1266" height="638" alt="image" src="https://github.com/user-attachments/assets/92ab8e15-7e12-48c7-8f5b-ab94063efcaa" />
 
 
-trends in Genre popularity over time (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Trends%20over%20time.png)
+trends in Genre popularity over time 
 
 <img width="1546" height="574" alt="image" src="https://github.com/user-attachments/assets/38b3e7af-35a5-4795-9af2-6dda21ce5ec8" />
 
 
-language estimation (https://github.com/Kusum-0001/Netflix-Data-Analysis-with-EDA/blob/main/Language%20estimation.png)
+language estimation 
 
 <img width="1551" height="586" alt="image" src="https://github.com/user-attachments/assets/17db3bbc-4f8d-4bf7-8439-e52576f3e80f" />
+
+<h3>Conclusions:</h3>
+
+Data Cleaning: Missing values were handled — “Unknown” was used for `director`, `cast`, and `country`; mode was used for `date_added` and `duration`.
+
+Duration Split: `duration` was split into `duration_num` (numeric) and `duration_type` (either "min" or "season").
+
+Movie Durations: Fairly symmetric distribution with significant variation; average around 90–120 minutes.
+
+TV Show Durations: Mostly 1-season shows dominate the catalog; limited long-running series.
+
+Genre Column: `listed_in` was renamed to `Genre` for better clarity.
 
 
 
